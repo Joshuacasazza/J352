@@ -1,0 +1,69 @@
+.mainHeader {
+  background-color:#09058A;
+  margin-bottom: 15px;
+  font-family: 'Signika Negative', sans-serif;
+}
+/*established my font early, want 1 font throughout*/
+
+.subHeader {
+  background-color:#FFFFFF;
+  margin-bottom: 15px;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+h1 {
+  padding: 0px 0 0px 0;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+h2 {
+  padding: 10px 10px 10px 10px;
+  color: #000000;
+  font-family: 'Signika Negative', sans-serif;
+}
+/*changed my color scheme 10 times because I couldn't decide*/
+h3 {
+  color: #000000;
+	font-weight: 700;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+p {
+  font-family: 'Signika Negative', sans-serif;
+}
+
+ul {
+  font-family: 'Signika Negative', sans-serif;
+}
+  
+
+.sidebar {
+	background-color:#DF1808;
+  padding: 10px 10px 0px 10px;
+  font-family: 'Signika Negative', sans-serif;
+}
+/*fixed my padding last second*/
+
+.calloutStyle {
+background-color: #09058A;
+color: #fff;
+font-family: 'Signika Negative', sans-serif;
+}
+
+.bigImage {
+  padding: 2px;
+  border: solid 1px #999;
+  margin: 10px 0 10px 0;
+  font-family: 'Signika Negative', sans-serif;
+}
+
+.disclaimer {
+  background-color: white;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0 0 0;
+  font-family: 'Signika Negative', sans-serif;
+}
+
