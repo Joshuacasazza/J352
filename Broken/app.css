@@ -1,55 +1,42 @@
 .mainHeader {
-  background-color:#09058A;
+  background-color:#951E0B;
   margin-bottom: 15px;
-  font-family: 'Signika Negative', sans-serif;
+  font-family: 'Bebas Neue', cursive;
 }
 
 
 .subHeader {
   background-color:#FFFFFF;
   margin-bottom: 15px;
-  font-family: 'Signika Negative', sans-serif;
+  font-family: 'Bebas Neue', cursive;
 }
 
 h1 {
   padding: 0px 0 0px 0;
   font-weight: 700;
   color: #FFFFFF;
-  font-family: 'Signika Negative', sans-serif;
+  font-family: 'Bebas Neue', cursive;
 }
 
-h2 {
-  padding: 10px 10px 10px 10px;
-  color: #000000;
-  font-family: 'Signika Negative', sans-serif;
-}
 
-h3 {
-  color: #000000;
-	font-weight: 700;
-  font-family: 'Signika Negative', sans-serif;
-}
 
 p {
-  font-family: 'Signika Negative', sans-serif;
+  font-family: 'Times New Roman';
 }
 
-ul {
-  font-family: 'Signika Negative', sans-serif;
-}
   
 
 .sidebar {
-	background-color:#DF1808;
+	background-color:#951E0B;
   padding: 10px 10px 0px 10px;
-  font-family: 'Signika Negative', sans-serif;
+  font-family: 'Bebas Neue', cursive;
 }
 
 
 .calloutStyle {
-background-color: #09058A;
+background-color: #000000;
 color: #fff;
-font-family: 'Signika Negative', sans-serif;
+font-family: 'Bebas Neue', cursive;
 }
 
 .disclaimer {
@@ -57,6 +44,10 @@ font-family: 'Signika Negative', sans-serif;
   color: #fff;
   text-align: center;
   padding: 10px 0 0 0;
-  font-family: 'Signika Negative', sans-serif;
+  font-family: 'Bebas Neue', cursive;
 }
 
+.sidebartext {
+  color: #ffffff;
+  font-family: 'Bebas Neue', cursive;
+}
