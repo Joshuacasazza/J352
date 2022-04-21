@@ -1,0 +1,53 @@
+.mainHeader {
+  background-color:#951E0B;
+  margin-bottom: 15px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+
+.subHeader {
+  background-color:#FFFFFF;
+  margin-bottom: 15px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+  padding: 0px 0 0px 0;
+  font-weight: 700;
+  color: #FFFFFF;
+  font-family: 'Bebas Neue', cursive;
+}
+
+
+
+p {
+  font-family: 'Times New Roman';
+}
+
+  
+
+.sidebar {
+	background-color:#951E0B;
+  padding: 10px 10px 0px 10px;
+  font-family: 'Bebas Neue', cursive;
+}
+
+
+.calloutStyle {
+background-color: #000000;
+color: #fff;
+font-family: 'Bebas Neue', cursive;
+}
+
+.disclaimer {
+  background-color: white;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0 0 0;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.sidebartext {
+  color: #ffffff;
+  font-family: 'Bebas Neue', cursive;
+}
